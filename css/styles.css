@@ -704,7 +704,7 @@ progress {
 
   .container-md,
   .container-sm,
-  .container .gallery {
+  .container {
     max-width: 720px;
   }
 }
